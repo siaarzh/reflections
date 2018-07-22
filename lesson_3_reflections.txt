@@ -35,7 +35,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I'd use google docs. They have file change history built in.
+
+    It would be harder to do so compared to git, especially after learning how
+    powerful git can be.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
