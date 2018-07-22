@@ -28,7 +28,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    This is equivalent as having a separate branch and allows you to collaborate
+    with others. You can fetch right before going offline and if your commits
+    go in conflict with remote copy that you have you can resolve them too.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
