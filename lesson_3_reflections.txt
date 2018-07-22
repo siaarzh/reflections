@@ -43,4 +43,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Every time you want to add features or test something you have to branch. 
+    You can always delete a non-master branch if you merged it, or you don't
+    need it anymore.
+
+    When working on serious projects, it's useful to have a different branch for
+    deployment versions, development versions and bugfixes. All the while, your
+    master stays as the most stable version.
